@@ -15,6 +15,6 @@
       "field": "params.tinylytics_emoji",
       "label": "Emoji for Kudos (Required)",
       "placeholder": "Ex: ❤️ or 👏"
-    },
+    }
   ]
 }
