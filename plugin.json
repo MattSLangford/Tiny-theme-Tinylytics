@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "title": "Tiny theme add-on: Add Tinylytics",
+  "description": "Add Tinylytics (Analytics) to your site.",
+  "includes": [
+    "plugin_tinylytics.html"
+  ],
+  "fields": [
+    {
+      "field": "params.tinylytics_id",
+      "label": "Site ID Provided by Tinylytics (Required)",
+      "placeholder": "Ex: jP9byNTOZLZYRJ2-BU-X"
+    },
+    {
+      "field": "params.tinylytics_emoji",
+      "label": "Emoji for Kudos (Required)",
+      "placeholder": "Ex: ❤️ or 👏"
+    },
+  ]
+}
