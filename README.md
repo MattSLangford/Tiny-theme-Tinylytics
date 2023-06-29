@@ -32,7 +32,7 @@ You can support this plugin directly within your theme by adding the following s
 ```
 {{ if templates.Exists "partials/plugin_tinylytics.html" }}
 	  <button class="tinylytics_kudos">Kudos</button>
-  {{ end }}
+{{ end }}
 ```
 
 This checks to see if the plugin is installed. If it is, it adds a Kudos button. In this example, "Kudos" is simply fallback text until the tinylytics script loads.
