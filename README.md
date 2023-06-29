@@ -19,6 +19,6 @@ Allows you to add Tinylytics to your site.
 #### To Add a Publicly Visible Hit Counter
 You can optionally show a hit counter for your overall site by using the following shortcode in any post or page.
 
-{{< tinylytics >}}
+`{{< tinylytics >}}`
 
 **THIS PLUGIN IS FOR PAID TINYLYTICS USERS ONLY**
