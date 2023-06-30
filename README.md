@@ -1,6 +1,6 @@
 # Tiny theme - Add Tinylytics
 
-**NOTE:** This plugin is for PAID [TINYLYTICS](https://tinylytics.app) USERS ONLY. It is designed to work out-of-the-box with the [Tiny Theme for Micro.blog](https://tinyformicro.blog), but theme developers can add compatibility to their theme as well.
+**NOTE:** This plugin is for PAID [TINYLYTICS](https://tinylytics.app) USERS ONLY (currently in development). It is designed to work out-of-the-box with the [Tiny Theme for Micro.blog](https://tinyformicro.blog), but theme developers can add compatibility to their theme as well.
 
 ![Tiny Theme Head Graphic](https://github.com/MattSLangford/Tiny-theme-Tinylytics/blob/main/screenshot.jpg?raw=true)
 
