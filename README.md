@@ -19,10 +19,11 @@ Adds all Tinylytics features to your site:
 3. Add your Tinlytics ID and Emoji
 
 
-#### To Add a Publicly Visible Hit Counter
-You can optionally show a hit counter for your overall site by using the following shortcode in any post or page.
+#### Shortcodes for Hits and Uptime
+You can optionally show a hit counter or uptime viewer for your overall site by using the following shortcodes in any post or page.
 
 `{{< hits >}}`
+`{{< uptime >}}`
 
 ### For Theme Developers
 
