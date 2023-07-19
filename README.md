@@ -20,10 +20,12 @@ Adds all Tinylytics features to your site:
 
 
 #### Shortcodes for Hits and Uptime
-You can optionally show a hit counter (free and paid Tinylytics accounts) or uptime viewer (paid Tinylytics accounts only) for your overall site by using the following shortcodes in any post or page.
+You can optionally show a hit counter (free and paid Tinylytics accounts) or uptime viewer (paid Tinylytics accounts only) for your overall site by using the following shortcodes in any post or page. You can also show hits for a specific post/page by using the `hitsx` shortcode.
 
 `{{< hits >}}`
+`{{< hitsx >}}`
 `{{< uptime >}}`
+
 
 ### For Theme Developers
 
