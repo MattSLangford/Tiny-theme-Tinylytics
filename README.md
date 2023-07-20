@@ -39,6 +39,6 @@ You can support this plugin directly within your theme by adding the following s
 
 This checks to see if the plugin is installed. If it is, it adds a Kudos button. In this example, "Kudos" is simply fallback text until the Tinylytics script loads.
 
-### Support This Project
+### Support Development
 
-[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at mattlangford.com.
+[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at [mattlangford.com](https://www.mattlangford.com).
