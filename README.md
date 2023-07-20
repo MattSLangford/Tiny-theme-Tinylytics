@@ -20,11 +20,11 @@ Adds all Tinylytics features to your site:
 
 
 #### Shortcodes for Hits and Uptime
-You can optionally show a hit counter (free and paid Tinylytics accounts) or uptime viewer (paid Tinylytics accounts only) for your overall site by using the following shortcodes in any post or page. You can also show hits for a specific post/page by using the `hitsx` shortcode.
+You can use shortcodes in your Micro.blog posts and pages to display styled statistics. There are 3 shortcodes available:
 
-`{{< hits >}}`
-`{{< hitsx >}}`
-`{{< uptime >}}`
+1. `{{< hits >}}` - Shows total hits for all pages on your site.
+2. `{{< hitsx >}}` - Shows hits only for the current page.
+3. `{{< uptime >}}` - Shows your site's uptime %. Requires a Tinyltyics **paid** account and additional setup in Tinylytics.
 
 
 ### For Theme Developers
@@ -38,3 +38,7 @@ You can support this plugin directly within your theme by adding the following s
 ```
 
 This checks to see if the plugin is installed. If it is, it adds a Kudos button. In this example, "Kudos" is simply fallback text until the Tinylytics script loads.
+
+### Support This Project
+
+[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at mattlangford.com.
