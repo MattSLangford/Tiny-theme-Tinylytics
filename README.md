@@ -41,4 +41,6 @@ This checks to see if the plugin is installed. If it is, it adds a Kudos button.
 
 ### Support Development
 
-[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at [mattlangford.com](https://www.mattlangford.com).
+Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog or Tinylytics in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
+
+<a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
