@@ -39,8 +39,9 @@ You can support this plugin directly within your theme by adding the following s
 
 This checks to see if the plugin is installed. If it is, it adds a Kudos button. In this example, "Kudos" is simply fallback text until the Tinylytics script loads.
 
-### Support Development
+### Do you value this plugin?
 
 Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog or Tinylytics in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
 
-<a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[Make a Donation](https://donate.stripe.com/5kAeV7gWk9fk7aE7ss) in any amount. Thank you!
+
