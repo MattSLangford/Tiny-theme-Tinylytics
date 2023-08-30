@@ -39,9 +39,10 @@ You can support this plugin directly within your theme by adding the following s
 
 This checks to see if the plugin is installed. If it is, it adds a Kudos button. In this example, "Kudos" is simply fallback text until the Tinylytics script loads.
 
-### Do you value this plugin?
+## Do you value this theme and plugins?
 
-Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog or Tinylytics in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
+Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and ensure the future of Tiny Theme and its plugins, please consider supporting its development.
 
-[Make a Donation](https://donate.stripe.com/5kAeV7gWk9fk7aE7ss) in any amount. Thank you!
+[Make a one-time Donation](https://donate.stripe.com/5kAeV7gWk9fk7aE7ss) in any amount or [setup a $5 monthly donation](https://buy.stripe.com/28odR3eOc2QWeD6cMN). Thank you!
+
 
