@@ -10,6 +10,7 @@ Adds all Tinylytics features to your site:
 - Analytics
 - Hit Counter
 - Kudos Button
+- Webring
 
 ### Installation and Setup
 
@@ -20,12 +21,14 @@ Adds all Tinylytics features to your site:
 
 
 #### Shortcodes for Hits and Uptime
-You can use shortcodes in your Micro.blog posts and pages to display styled statistics. There are 3 shortcodes available:
+You can use shortcodes in your Micro.blog posts and pages to display styled statistics. There are 4 shortcodes available:
 
 1. `{{< hits >}}` - Shows total hits for all pages on your site.
 2. `{{< hitsx >}}` - Shows hits only for the current page.
 3. `{{< uptime >}}` - Shows your site's uptime %. Requires a Tinyltyics **paid** account and additional setup in Tinylytics.
+4. `{{< webring >}}` - Shows a link to the Tinylytics webring*
 
+*This also enables the ability to include custom webring links. For example you can add `<a href="#" target="_blank" class="tinylytics_webring">Tinylytics Webring 🕸️💍</a>` to your site in any location, customizing the **displayed text** at will.
 
 ### For Theme Developers
 
