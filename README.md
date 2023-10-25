@@ -11,6 +11,7 @@ Adds all Tinylytics features to your site:
 - Hit Counter
 - Kudos Button
 - Webring
+- Country Flag Viewer
 
 ### Installation and Setup
 
