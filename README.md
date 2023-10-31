@@ -10,7 +10,7 @@ Adds all Tinylytics features to your site:
 - Analytics
 - Hit Counter
 - Kudos Button
-- Webring
+- Webring with Avatars
 - Country Flag Viewer
 
 ### Installation and Setup
@@ -26,11 +26,13 @@ You can use shortcodes in your Micro.blog posts and pages to display styled stat
 
 1. `{{< hits >}}` - Shows total hits for all pages on your site.
 2. `{{< hitsx >}}` - Shows hits only for the current page.
+3, `{{< public_stats >}}` - Shows a hit counter that links to your public stats page (if it exists).
 3. `{{< uptime >}}` - Shows your site's uptime %. Requires a Tinyltyics **paid** account and additional setup in Tinylytics.
 4. `{{< countries >}}'` - Shows a list of countries that have visited your site in emoji form
-5. `{{< webring >}}` - Shows a link to the Tinylytics webring*
+5. `{{< webring >}}` - Shows a link to the Tinylytics webring WITHOUT avatars
+6. `{{< webring_avatars >}}` - Shows a link to the Tinylytics webring WITH avatars
 
-*This also enables the ability to include custom webring links. For example you can add `<a href="#" target="_blank" class="tinylytics_webring">Tinylytics Webring 🕸️💍</a>` to your site in any location, customizing the **displayed text** at will.
+
 
 ### For Theme Developers
 
