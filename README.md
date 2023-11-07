@@ -1,6 +1,6 @@
 # Tiny theme - Add Tinylytics
 
-**NOTE:** This plugin is for [Tinylytics](https://tinylytics.app) users (**use code "tiny-theme-mb" for 20% off a yearly subscription**). It is designed to work out-of-the-box with the [Tiny Theme for Micro.blog](https://tinyformicro.blog), but other Micro.blog theme developers can add compatibility to their theme as well.
+**NOTE:** This plugin is for [Tinylytics](https://tinylytics.app) users (**use code "TINYTHEMEMB" for 20% off a yearly subscription, trust me, it's worth it**). It is designed to work out-of-the-box with the [Tiny Theme for Micro.blog](https://tinyformicro.blog), but other Micro.blog theme developers can add compatibility to their theme as well.
 
 ![Tiny Theme Head Graphic](https://github.com/MattSLangford/Tiny-theme-Tinylytics/blob/main/screenshot.jpg?raw=true)
 
