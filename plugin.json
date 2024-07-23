@@ -1,7 +1,7 @@
 {
   "version": "1.5.1",
-  "title": "Tiny theme add-on: Add Tinylytics",
-  "description": "Add Tinylytics (Analytics) to your site.",
+  "title": "Add Tinylytics to Tiny & Sumo",
+  "description": "Add Tinylytics (Analytics) to your site powered by Tiny Theme or Sumo Theme.",
   "includes": [
     "plugin_tinylytics.html"
   ],
